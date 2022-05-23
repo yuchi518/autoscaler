@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM gcr.io/distroless/static:latest
+FROM docker.io/yuchi518/distroless-static:latest
 MAINTAINER Krzysztof Grygiel "kgrygiel@google.com"
 
 ARG ARCH
