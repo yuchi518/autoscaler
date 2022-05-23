@@ -13,7 +13,7 @@
 # limitations under the License.
 
 
-FROM gcr.io/distroless/static:latest
+FROM docker.io/yuchi518/distroless-static:latest
 MAINTAINER Marcin Wielgus "mwielgus@google.com"
 
 ARG ARCH
